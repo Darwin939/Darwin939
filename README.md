@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align='right' src="https://i.imgur.com/H2xbvrS_d.webp?maxwidth=728&fidelity=grand" width="400">
 
 Software Developer at <a href="https://www.technodom.kz/">BTS Digital</a>.
 
