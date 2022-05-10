@@ -1,3 +1,5 @@
+<img align='right' src="https://i.imgur.com/H2xbvrS_d.webp?maxwidth=728&fidelity=grand" width="400">
+
 ### Hi there 👋
 
 Software Developer at <a href="https://btsdigital.kz/">BTS Digital</a>.
