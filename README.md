@@ -1,4 +1,4 @@
-<img align='right' src="https://i.imgur.com/H2xbvrS_d.webp?maxwidth=728&fidelity=grand" width="400">
+<img align='right' src="https://c.tenor.com/CZ_JmvSRHxIAAAAd/mandalorian-the-mandalorian.gif" width="400">
 
 ### Hi there 👋
 
