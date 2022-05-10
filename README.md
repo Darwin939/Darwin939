@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Developer at <a href="https://www.technodom.kz/">BTS Digital</a>.
+Software Developer at <a href="https://btsdigital.kz/">BTS Digital</a>.
 
 Student of <a href="https://alem.school">alem school</a>.
 
