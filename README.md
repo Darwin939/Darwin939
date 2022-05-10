@@ -6,9 +6,9 @@ Student of <a href="https://alem.school">alem school</a>.
 
 I’m currently working with Python and Golang.
 
-[![telegram: Askaruly_n](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/baza04)](https://t.me/baza04)
+[![telegram: Askaruly_n](https://img.shields.io/badge/-Askaruly_n-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Askaruly_n)](https://t.me/Askaruly_n)
 [![Linkedin: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baza04/)](https://www.linkedin.com/in/baza04/)
-[![LeetCode: darwin939](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdarwin939&logo=leetcode&style=flat-squarelogoColor=yellow&)](https://leetcode.com/baza04/)
+[![LeetCode: darwin939](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdarwin939&logo=leetcode&style=flat-squarelogoColor=yellow&)](https://leetcode.com/darwin939/)
 
 **Languages and Tools:**
 
