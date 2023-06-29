@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Software Developer at <a href="https://btsdigital.kz/">BTS Digital</a>.
+Software Developer at <a href="https://bankrbk.kz/">Bank RBK</a>.
 
 Student of <a href="https://alem.school">alem school</a>.
 
