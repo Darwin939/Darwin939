@@ -3,7 +3,7 @@
 
 Software Developer at <a href="https://bankrbk.kz/">Bank RBK</a>.
 
-Student of <a href="https://alem.school">alem school</a>.
+Alumni of <a href="https://alem.school">alem school</a>.
 
 I’m currently working with Python and Golang.
 
