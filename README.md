@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Software Developer at <a href="https://bankrbk.kz/">Bank RBK</a>.
+Software Developer.
 
 Alumni of <a href="https://alem.school">alem school</a>.
 
